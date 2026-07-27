@@ -13,10 +13,10 @@ A digital health platform built and operated by **[Vira Web Aria Co.](https://on
 
 | | |
 |---|---|
-| 🏙️ **75+** | Cities covered |
-| 📅 **2,350,000+** | Appointments booked |
-| 🏥 **1,200+** | Partner medical centers |
-| 👨‍⚕️ **8,400+** | Partner doctors |
+| 🏙️ **10** | Cities covered |
+| 📅 **10,000+** | Appointments booked |
+| 🏥 **50+** | Partner medical centers |
+| 👨‍⚕️ **100+** | Partner doctors |
 
 ---
 
